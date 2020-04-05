@@ -1,12 +1,5 @@
-<<<<<<< HEAD
-dfa
-1meger hello
-sfada
-123hello
-=======
-3
-4meger hello
-5
-623hello
->>>>>>> dev
+12345
+6a
+
+测试
 
